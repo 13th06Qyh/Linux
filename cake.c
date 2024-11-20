@@ -93,8 +93,8 @@ int main(int argc, char **argv)
 
     init();
 
-    glutDisplayFunc(displa);
-    // glutMainLoop();//hjbukqeFI
+    glutDisplayFunc(display);
+    glutMainLoop();//metmoi
     return 0;
 }
 
