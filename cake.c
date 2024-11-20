@@ -94,7 +94,7 @@ int main(int argc, char **argv)
     init();
 
     glutDisplayFunc(display);
-    glutMainLoop();//metmoidi
+    glutMainLoop();//metmoiquadi
     return 0;
 }
 
